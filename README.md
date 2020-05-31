@@ -1,2 +1,2 @@
 # Fruits-Syrup-Plan-IOT
-IOT
+mini project IOT with Simulation
